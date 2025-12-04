@@ -2,7 +2,7 @@ package LocalRepo;
 
 public class Code {
     public static void main(String[] args) {
-        int a = 11;
+        int a = 12;
         //int b = 12;
 
         if(a % 2 == 0){
